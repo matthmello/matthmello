@@ -1,6 +1,5 @@
 ## Olá! eu me chamo Matheus Melo
 <div>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthmello&layout=compact">
 </div>
 
 <div style="display: inline_block"><br> 
