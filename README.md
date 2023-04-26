@@ -10,6 +10,5 @@
   <img align="center" alt="matthmello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="matthmello-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="matthmello-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="matthmello-next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
 </div>
    
